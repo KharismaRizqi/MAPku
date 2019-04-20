@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MapKu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="list_kota">
+        <item>jakarta</item>
+        <item>Bandung</item>
+        <item>DEPOK</item>
+    </string-array>
+</resources>
